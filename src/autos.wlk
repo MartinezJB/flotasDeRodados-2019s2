@@ -1,0 +1,5 @@
+object abc {
+	
+	method uno(){}
+	
+}
